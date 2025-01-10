@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niko23-10
 - 👀 I’m interested in coding. 
-- 🌱 I’m currently learning kotlin. 
+- 🌱 I’m currently learning Kotlin. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://advokatpetrovic.rs 
 - 😄 Pronouns: he. 
